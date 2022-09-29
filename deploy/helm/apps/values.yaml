@@ -4,7 +4,7 @@ app:
   repository: "https://github.com/BedeGaming/gitsourcetest"
 
 container:
-  repository: some.repo
+  repository: en1bdess01acr.azurecr.io
   pullPolicy: Always
 
 deployment: {}
